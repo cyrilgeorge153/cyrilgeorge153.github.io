@@ -1,11 +1,11 @@
-title: Aashima Ahuja # your name (or website title) here
+title: Cyril George # your name (or website title) here
 logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Senior Frontend Engineer
+ Test Engineer
   <br><br>
-  <a href="mailto:aashima.ahuja811@gmail.com">aashima.ahuja811@gmail.com </a>
+  <a href="mailto:cyrilgeorge153@gmail.com">cyrilgeorge153@gmail.com </a>
   <br>
-  <a href="https://www.linkedin.com/in/aashimaahuja/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/cyril-george-3b9873bb/">LinkedIn Profile</a>
   <br>
-  <a href="https://www.gihub.com/aashimaahuja/">Gihub</a> 
+  <a href="https://github.com/cyrilgeorge153/cyrilgeorge153">Gihub</a> 
 theme: jekyll-theme-minimal
