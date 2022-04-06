@@ -52,12 +52,13 @@ Eclipse, Visual Studio Code, PyCharm, Intellij IDEA
 <img width="75" alt="Pycharm" title="Pycharm" src="images/pycharm.jpg"> <img width="75" alt="Intellij" title="Intellij" src="images/intellijidea.jpg">
 
 
-# Github repo:https://github.com/cyrilgeorge153
 
 # Blogs:
 https://medium.com/@cyrilgeorge153
 
 https://qa-ninja-tester.blogspot.com/
+
+https://dev.to/cyrilgeorge153
 
 [![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrilgeorge153)](https://github.com/anuraghazra/github-readme-stats)
 
