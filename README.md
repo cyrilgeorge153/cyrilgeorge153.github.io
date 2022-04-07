@@ -56,7 +56,7 @@ Eclipse, Visual Studio Code, PyCharm, Intellij IDEA
 # Blogs:
 https://medium.com/@cyrilgeorge153
 
-https://qa-ninja-tester.blogspot.com/
+https://qa-ninja-tester.blogspot.com
 
 https://dev.to/cyrilgeorge153
 

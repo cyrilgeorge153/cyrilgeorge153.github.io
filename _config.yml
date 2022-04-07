@@ -3,9 +3,9 @@ logo: "/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Lead Engineer, QA
   <br><br>
-  <a href="mailto:cyrilgeorge153@gmail.com">cyrilgeorge153@gmail.com</a>
+  <a href="mailto:cyrilgeorge153@gmail.com">Gmail</a>
   <br>
-  <a href="https://www.linkedin.com/in/cyrilgeorge153/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/cyrilgeorge153/">Linkedin</a>
   <br>
   <a href="https://github.com/cyrilgeorge153/">Github</a> 
 theme: jekyll-theme-minimal
