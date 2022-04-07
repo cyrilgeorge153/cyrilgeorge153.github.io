@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am a software test engineer with over 6 years of work experience in product and service based companies. I have experience in ui automation,  backend API and mobile testing. I am a conscientious person who works hard and pays attention to detail. I'm flexible, quick to pick up new skills and eager to learn from others. I also have lots of ideas and enthusiasm. Currently testing salesforce based applications.
+## I am a software test engineer with over 6 years of work experience in product and service based companies. I have experience in ui automation,  backend API and mobile testing. I am a conscientious person who works hard and pays attention to detail. I'm flexible, quick to pick up new skills and eager to learn from others. I also have lots of ideas and enthusiasm.
 
 # AUTOMATION FRAMEWORK & DEVOPS SKILLS:
 Data Driven, Key Word(Robot Framework), Hybrid, Page Object Model, Selenium WebDriver with java & python , BDD (Cucumber-JVM), TestNg, Junit, Pytest, Extent Report, Apache Log4j, SVN, GIT, GitHub, Bit bucket, Gitlab, MAVEN, Jenkins, Docker, Zalenium, TestProject, Karate Ui Testing, Playwright with java & python, Selenide, SeleniumBase with python.
