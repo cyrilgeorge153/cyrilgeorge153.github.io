@@ -53,11 +53,12 @@ Eclipse, Visual Studio Code, PyCharm, Intellij IDEA
 
 
 # Blogs:
-https://medium.com/@cyrilgeorge153
+[Medium](https://medium.com/@cyrilgeorge153)
 
-https://qa-ninja-tester.blogspot.com
+[Blogger](https://qa-ninja-tester.blogspot.com)
 
-https://dev.to/cyrilgeorge153
+[DEV Community](https://dev.to/cyrilgeorge153)
+
 
 [![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrilgeorge153)](https://github.com/anuraghazra/github-readme-stats)
 
