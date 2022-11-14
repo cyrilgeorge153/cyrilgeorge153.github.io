@@ -59,8 +59,6 @@ Eclipse, Visual Studio Code, PyCharm, Intellij IDEA
 
 [DEV Community](https://dev.to/cyrilgeorge153)
 
-[Quality Assurance Service](https://www.qburst.com/software-testing-services/?ref=1500042)
-
 [![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrilgeorge153)](https://github.com/anuraghazra/github-readme-stats)
 
 
